@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-size: 14px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
