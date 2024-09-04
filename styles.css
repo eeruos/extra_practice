@@ -5,10 +5,23 @@
 }
 
 body {
-    font-size: 14px;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
 }
 
 img {
     height: auto;
-    width: 300px;
+    width: 500px;
+    margin: 50px;
+}
+
+ol {
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    margin: auto;
 }
